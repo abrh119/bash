@@ -1,2 +1,2 @@
 # bash
-temp bask scripts
+temp bash scripts
