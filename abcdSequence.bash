@@ -1,6 +1,5 @@
-for x in {a..z}
-do
-    echo "$x"
-    mkdir -p path2/${x}
-    mv path1/${x}*.ext path2/${x}
+for letter in {A..Z} ; do
+  echo $letter
 done
+
+# FOR LOWERCASE: {a..z}
